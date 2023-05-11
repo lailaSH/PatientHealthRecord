@@ -1,3 +1,13 @@
+## About This Project
+
+The project enables us to integrate patient health information into digital records that can be accessed and updated by all authorized users at any time, as they contain details of medical history, medications, allergies, treatment plans, laboratory results for patients, and other important information, which provides doctors with tools to help them make better choices. To take care of the patient and know the most appropriate treatment plan for them, especially in emergency situations
+
+## Used Technologies
+
+php (laravel) , database (sql) 
+
+
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 
 <p align="center">
